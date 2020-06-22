@@ -13,4 +13,4 @@ spring:
           search-paths:
             - configfiles
       #配置分支
-      label: test
+      label: configs
